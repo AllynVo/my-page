@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/my-page/static/css/main.7b400fa8.chunk.css",
+    "main.js": "/my-page/static/js/main.09da7191.chunk.js",
+    "main.js.map": "/my-page/static/js/main.09da7191.chunk.js.map",
+    "runtime-main.js": "/my-page/static/js/runtime-main.0de95849.js",
+    "runtime-main.js.map": "/my-page/static/js/runtime-main.0de95849.js.map",
+    "static/js/2.5673b3a4.chunk.js": "/my-page/static/js/2.5673b3a4.chunk.js",
+    "static/js/2.5673b3a4.chunk.js.map": "/my-page/static/js/2.5673b3a4.chunk.js.map",
+    "index.html": "/my-page/index.html",
+    "precache-manifest.f8a0a63149eb467c7de30c4d9bdffe79.js": "/my-page/precache-manifest.f8a0a63149eb467c7de30c4d9bdffe79.js",
+    "service-worker.js": "/my-page/service-worker.js",
+    "static/css/main.7b400fa8.chunk.css.map": "/my-page/static/css/main.7b400fa8.chunk.css.map",
+    "static/js/2.5673b3a4.chunk.js.LICENSE.txt": "/my-page/static/js/2.5673b3a4.chunk.js.LICENSE.txt",
+    "static/media/Allyn_Resume_10-1.pdf": "/my-page/static/media/Allyn_Resume_10-1.4e54cf75.pdf",
+    "static/media/building.svg": "/my-page/static/media/building.c4d3f5d2.svg",
+    "static/media/code-inspect.svg": "/my-page/static/media/code-inspect.54208a40.svg",
+    "static/media/designer.svg": "/my-page/static/media/designer.325d8177.svg",
+    "static/media/preferences.svg": "/my-page/static/media/preferences.bfa148ff.svg",
+    "static/media/scrum-board.svg": "/my-page/static/media/scrum-board.5cfd1d69.svg",
+    "static/media/sea-video.mp4": "/my-page/static/media/sea-video.7854866d.mp4",
+    "static/media/selfie-1.JPG": "/my-page/static/media/selfie-1.2a1be3c8.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0de95849.js",
+    "static/js/2.5673b3a4.chunk.js",
+    "static/css/main.7b400fa8.chunk.css",
+    "static/js/main.09da7191.chunk.js"
+  ]
+}
